@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#0A0A0F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0A0A0F"/>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="100" y="340" font-family="Inter, sans-serif" font-size="160" font-weight="800" fill="#FFFFFF">PLAYZ</text>
+  <text x="100" y="410" font-family="Inter, sans-serif" font-size="32" fill="#C4B5FD">Streaming de filmes. Gratis e premium.</text>
+</svg>
